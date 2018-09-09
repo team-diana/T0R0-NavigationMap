@@ -1,5 +1,5 @@
-# T0-R0 Mission Control GUI
-A GUI to display all most vital data from T0-R0 rover
+# T0-R0 Navigation Map GUI
+A GUI to display a map that display obstacles of the surroundings.
 
 ## Dependencies
 ### Mosquitto - MQTT Broker
