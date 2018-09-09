@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package>
+
+  <name>T0R0-MissionControl</name>
+  <version>0.1.0</version>
+  <description>The T0R0 Mission Control UI</description>
+  <author email="frama95@gmail.com">Francesco Masciari</author>
+  <maintainer email="frama95@gmail.com">Francesco Masciari</maintainer>
+  <license>CC BY SA</license>
+
+  <export>
+  </export>
+
+</package>
